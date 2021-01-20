@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate with other C#/.Net Developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to go on Adventure Hiking  
+- ⚡ Fun fact: I love to go on Adventure Hiking, swimming and seeing new places beyond writing softwares🤣
 
 <!--
 **AtolagbeMuiz/AtolagbeMuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
