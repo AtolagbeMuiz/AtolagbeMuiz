@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there, I'm Muiz 👋
 
 - 🔭 I’m currently working on becoming a better software architect.
 - 🌱 I’m currently learning JavaScript.
