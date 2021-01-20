@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/AtolagbeMuiz/<OWNER>/<OWNER>/readme_header.png "Header")]
 
 ### Hi there 👋
 
