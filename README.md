@@ -13,8 +13,12 @@
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+
+[website]: https://www.linkedin.com/in/atolagbe-muiz-b81b54156/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACWLmpEB6f-rKRjpFKSN8LE0h58SnR5OriQ,1590868350350)/
+[twitter]: https://twitter.com/AtolagbeMuiz
+[linkedin]: https://linkedin.com/in/atolagbe-muiz-b81b54156/
 
 <!--
 **AtolagbeMuiz/AtolagbeMuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
