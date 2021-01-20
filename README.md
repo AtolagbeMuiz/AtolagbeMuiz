@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
- 🔭 I’m currently working on becoming a better software architect.
+- 🔭 I’m currently working on becoming a better software architect.
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate with other C#/.Net Developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects
