@@ -1,6 +1,8 @@
 
 ### Hi there, I'm Muiz 👋
 
+### README under construction🚧
+
 - 🔭 I’m currently working on becoming a better software architect.
 - 💪 My strength is Back-End Software Development with C# using .NET frameworks.
 - 🦄 I am available for Entry Level/Junior and Internship Back-End Roles.
@@ -17,6 +19,7 @@
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 
 ### Languages and Tools:
 
