@@ -33,6 +33,7 @@
 [twitter]: https://twitter.com/AtolagbeMuiz
 [linkedin]: https://linkedin.com/in/atolagbe-muiz-b81b54156/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 
 <!--
 **AtolagbeMuiz/AtolagbeMuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
