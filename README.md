@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Muiz 👋
 
-### README under construction🚧
+<!--### README under construction🚧-->
 
 - 🔭 I’m currently working on becoming a better software architect.
 - 💪 My strength is Back-End Software Development with C# using .NET frameworks.
