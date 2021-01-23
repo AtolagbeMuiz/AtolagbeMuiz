@@ -7,7 +7,7 @@
 - 💪 My strength is Back-End Software Development with C# using .NET frameworks.
 - 🦄 I am available for Entry Level/Junior and Internship Back-End Roles.
 - 🌱 I mainly uses .NET technlogies for my work but open to new learn new technologies⚙️.
-- 🔓 I’m currently learning JavaScript.
+- 🔓 I’m currently learning Design Patterns in Software Engineering applicable in solving real life challenges and to better grasp the principle of OOP.
 - 👯 I’m looking to collaborate with other C#/.Net Developers👨‍💻.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to go on Adventure Hiking, swimming and seeing new places🏙️ beyond writing softwares🤣
