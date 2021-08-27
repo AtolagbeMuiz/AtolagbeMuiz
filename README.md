@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on becoming a better software architect.
 - 💪 My strength is Back-End Software Development with C# using .NET frameworks.
 - 🦄 I am available for .NET Back-End Roles.
-- 🌱 I mainly uses .NET technlogies for my work but open to new learn new technologies⚙️.
+- 🌱 I mainly uses .NET technlogies for my work but open to learn new technologies⚙️.
 - 🔓 I’m currently learning Design Patterns in Software Engineering applicable in solving real life challenges and to better grasp the principle of OOP.
 - 👯 I’m looking to collaborate with other C#/.Net Developers👨‍💻.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
