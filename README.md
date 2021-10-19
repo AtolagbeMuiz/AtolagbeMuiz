@@ -14,7 +14,8 @@
 
 
 ### Articles
--  [HTTP vs HTTPS](https://medium.com/@atolagbemuiz/http-vs-https-2983c8890924)
+- ⚡ [HTTP vs HTTPS](https://medium.com/@atolagbemuiz/http-vs-https-2983c8890924)
+- ⚡ [My Journey into Tech](https://medium.com/@atolagbemuiz/my-journey-into-the-tech-ba501fe750d2)
 
 ### Connect with me:
 
