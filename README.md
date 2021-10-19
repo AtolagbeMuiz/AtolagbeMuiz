@@ -13,6 +13,9 @@
 - ⚡ Fun fact: I love to go on Adventure Hiking, swimming and seeing new places🏙️ beyond writing softwares🤣
 
 
+### Articles
+[Web Security: HTTP vs HTTPS]: https://medium.com/@atolagbemuiz/http-vs-https-2983c8890924
+
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
