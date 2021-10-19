@@ -3,7 +3,7 @@
 <!--### README under construction🚧-->
 <!-- - 🦄 I am available for Entry Level/Junior and Internship Back-End Roles.-->
 
-- 🔭 I’m currently working on becoming a better software architect.
+- 🔭 I’m currently working on becoming a better Software Architect.
 - 💪 My strength is Back-End Software Development with C# using .NET frameworks.
 - 🦄 I am available for .NET Back-End Roles.
 - 🌱 I mainly uses .NET technlogies for my work but open to learn new technologies⚙️.
@@ -14,7 +14,7 @@
 
 
 ### Articles
-[Web Security: HTTP vs HTTPS]: https://medium.com/@atolagbemuiz/http-vs-https-2983c8890924
+[Web Security: HTTP vs HTTPS]:https://medium.com/@atolagbemuiz/http-vs-https-2983c8890924
 
 ### Connect with me:
 
