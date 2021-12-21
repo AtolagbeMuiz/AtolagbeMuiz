@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to go on Adventure Hiking, swimming and seeing new places🏙️ beyond writing softwares🤣
 
 
-### Articles
+### Technical Articles
 - ⚡ [Cookies](https://link.medium.com/RGiItdXY3lb)
 - ⚡ [HTTP vs HTTPS](https://medium.com/@atolagbemuiz/http-vs-https-2983c8890924)
 - ⚡ [My Journey into Tech](https://medium.com/@atolagbemuiz/my-journey-into-the-tech-ba501fe750d2)
