@@ -9,7 +9,7 @@
 - 🌱 I mainly uses .NET technlogies for my work but open to learn new technologies⚙️.
 - 🔓 I’m currently learning Design Patterns in Software Engineering applicable in solving real life challenges and to better grasp the principle of OOP.
 - 👯 I’m looking to collaborate with other C#/.Net Developers👨‍💻.
-- 🥅 2022 Goal: Contribute more to Open Source projects.
+- 🥅 2023 Goal: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to go on Adventure Hiking, swimming and seeing new places🏙️ beyond writing softwares🤣
 
 
