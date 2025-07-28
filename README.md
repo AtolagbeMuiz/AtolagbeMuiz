@@ -9,11 +9,12 @@
 - 🌱 I mainly uses .NET technlogies for my work but open to learn new technologies⚙️.
 - 🔓 I’m currently learning Design Patterns in Software Engineering applicable in solving real life challenges and to better grasp the principle of OOP.
 - 👯 I’m looking to collaborate with other C#/.Net Developers👨‍💻.
-- 🥅 2023 Goal: Contribute more to Open Source projects.
+- 🥅 2025 Goal: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to go on Adventure Hiking, swimming and seeing new places🏙️ beyond writing softwares🤣
 
 
 ### Technical Articles
+- ⚡ [Predicting the Unpredictable: Using Computational Models to Simulate Forest Fire Spread.](https://medium.com/@atolagbemuiz/predicting-the-unpredictable-using-computational-models-to-simulate-forest-fire-spread-412684589237)
 - ⚡ [Cookies](https://link.medium.com/RGiItdXY3lb)
 - ⚡ [HTTP vs HTTPS](https://medium.com/@atolagbemuiz/http-vs-https-2983c8890924)
 - ⚡ [My Journey into Tech](https://medium.com/@atolagbemuiz/my-journey-into-the-tech-ba501fe750d2)
