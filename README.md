@@ -10,7 +10,7 @@
 - 🔓 I’m currently learning Design Patterns in Software Engineering applicable in solving real life challenges and to better grasp the principle of OOP.
 - 👯 I’m looking to collaborate with other C#/.Net Developers👨‍💻.
 - 🥅 2025 Goal: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to go on Adventure Hiking, swimming and seeing new places🏙️ beyond writing softwares🤣
+- ⚡ Fun fact: I love to go on Adventure Hiking, swimming and seeing new places🏙️ beyond writing softwares🤣.
 
 
 ### Technical Articles
