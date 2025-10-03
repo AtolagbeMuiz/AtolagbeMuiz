@@ -14,6 +14,7 @@
 
 
 ### Technical Articles
+- ⚡ [Rethinking Tech Recruitment: How AI is Reshaping the Hiring of Software Developers](https://techeconomy.ng/rethinking-tech-recruitment-how-ai-is-reshaping-the-hiring-of-software-developers/)
 - ⚡ [Unit Testing: IsSubsetOf and IsNotSubsetOf in MSTest](https://www.c-sharpcorner.com/article/unit-testing-issubsetof-and-isnotsubsetof-in-mstest/)
 - ⚡ [Predicting the Unpredictable: Using Computational Models to Simulate Forest Fire Spread.](https://medium.com/@atolagbemuiz/predicting-the-unpredictable-using-computational-models-to-simulate-forest-fire-spread-412684589237)
 - ⚡ [Cookies](https://link.medium.com/RGiItdXY3lb)
