@@ -14,6 +14,7 @@
 
 
 ### Technical Articles
+- ⚡ [Enhancing MSTest CollectionAssert.IsSubsetOf Error Messages](https://www.c-sharpcorner.com/blogs/enhancing-mstest-collectionassertissubsetof-error-messages)
 - ⚡ [Unit Testing: Non-Generic Collections in MSTest](https://www.c-sharpcorner.com/article/unit-testing-non-generic-collections-in-mstest/)
 - ⚡ [Rethinking Tech Recruitment: How AI is Reshaping the Hiring of Software Developers](https://techeconomy.ng/rethinking-tech-recruitment-how-ai-is-reshaping-the-hiring-of-software-developers/)
 - ⚡ [Unit Testing: IsSubsetOf and IsNotSubsetOf in MSTest](https://www.c-sharpcorner.com/article/unit-testing-issubsetof-and-isnotsubsetof-in-mstest/)
