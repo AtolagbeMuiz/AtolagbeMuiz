@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Muiz 👋
 <!--### README under construction🚧-->
 <!-- - 🦄 I am available for Entry Level/Junior and Internship Back-End Roles.-->
