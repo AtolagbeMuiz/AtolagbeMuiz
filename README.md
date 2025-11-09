@@ -1,7 +1,6 @@
 ### Hi there, I'm Muiz 👋
 <!--### README under construction🚧-->
-<!-- - 🦄 I am available for Entry Level/Junior and Internship Back-End Roles.-->
-
+<!-- - 🦄 I am available for Entry Level/Junior and Internship Back-End Roles-->
 - 🔭 I’m currently working on becoming a better Software Architect.
 - 💪 My strength is Back-End Software Development with C# using .NET frameworks.
 - 🦄 I am available for .NET Back-End Roles.
