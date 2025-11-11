@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other C#/.Net Developers👨‍💻.
 - 🥅 2025 Goal: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to go on Adventure Hiking, swimming and seeing new places🏙️ beyond writing softwares🤣.
-
+- 
 ### Technical Articles
 - ⚡ [Enhancing MSTest CollectionAssert.IsSubsetOf Error Messages](https://www.c-sharpcorner.com/blogs/enhancing-mstest-collectionassertissubsetof-error-messages)
 - ⚡ [Unit Testing: Non-Generic Collections in MSTest](https://www.c-sharpcorner.com/article/unit-testing-non-generic-collections-in-mstest/)
@@ -27,7 +27,6 @@
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
