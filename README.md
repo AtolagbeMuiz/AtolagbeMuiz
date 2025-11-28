@@ -20,7 +20,6 @@
 - ⚡ [HTTP vs HTTPS](https://medium.com/@atolagbemuiz/http-vs-https-2983c8890924)
 - ⚡ [My Journey into Tech](https://medium.com/@atolagbemuiz/my-journey-into-the-tech-ba501fe750d2)
 
-
 ### Connect with me:
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
